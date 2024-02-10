@@ -5,8 +5,8 @@ int main(){
     int a,b,sum ; 
 
 // Get Integers                                            
-    printf("Enter 2 digit =");                    
-    scanf("%d %d",&a ,&b);
+    printf("Enter 2 digit =");           
+    scanf("%d %d",&a ,&b); 
 
 // Calculate the sum
     sum=a+b;
