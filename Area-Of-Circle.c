@@ -1,6 +1,8 @@
+// Accept the radius of a circle and display its area.
+
 #include<stdio.h>
 int main(){
-    //define constants
+    // Define Variables
     float radius,area, pie=3.14 ;
 
     // Print Radius of circle
